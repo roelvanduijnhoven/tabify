@@ -1,0 +1,22 @@
+{
+  "name": "tabify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:roelvanduijnhoven/tabify.git"
+  },
+  "author": "Roel van Duijnhoven",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/roelvanduijnhoven/tabify/issues"
+  },
+  "dependencies": {
+    "midi-parser": "~0.1.0",
+    "midifile": "~0.1.3"
+  }
+}
