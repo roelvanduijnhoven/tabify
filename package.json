@@ -16,7 +16,6 @@
     "url": "https://github.com/roelvanduijnhoven/tabify/issues"
   },
   "dependencies": {
-    "midi-parser": "~0.1.0",
     "midifile": "~0.1.3",
     "commander": "~2.0.0"
   },
