@@ -1,7 +1,7 @@
 Tabify - convert midi in tablature
 ==================================
 
-Node package containing tooling that can convert plain midi files into readable tablature.
+Node package containing tooling that can convert plain midi files into readable tablature. Tabify decides what strings are used to play notes. A capo can be placed on the guitar to improve the playability of the tab.
 
 Usage
 -----
@@ -16,6 +16,11 @@ Options:
   -c, --capo <n>       What position is the capo on?
   -s, --separator <n>  Number of rests inserted between each bar?
 ```
+
+Example
+-------
+
+Tool can be tested online at http://tabify.herokuapp.com
 
 Example
 -------
