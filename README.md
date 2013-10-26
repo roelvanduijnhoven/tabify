@@ -14,7 +14,6 @@ Options:
   -h, --help           output usage information
   -b, --bars  <n>      Break after how many bars?
   -c, --capo <n>       What position is the capo on?
-  -s, --separator <n>  Number of rests inserted between each bar?
 ```
 
 Example
